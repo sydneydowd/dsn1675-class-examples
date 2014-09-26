@@ -22,12 +22,12 @@ h2 {
 }
 
 img {
-    width: 100%
+    width: 100%;
+    display: block;
 }
 
 .grid {
     background-color: red
-
 }
 
 .unit {
