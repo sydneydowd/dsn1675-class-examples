@@ -37,6 +37,10 @@ img {
     width: 33.333%;
 }
 
+.unit-2-3 {
+    width: 66.6666%;
+}
+
 .gutter {
     padding-left: 1em;
     padding-right: 1em;
