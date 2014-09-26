@@ -27,7 +27,8 @@ img {
 }
 
 .grid {
-    background-color: red
+    background-color: red;
+    overflow: hidden;
 }
 
 .unit {
